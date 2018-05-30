@@ -1,0 +1,20 @@
+{
+  "BTC": {
+    "totalPrice": 3500,
+    "coinCount": 2,
+    "coinName": "BTC",
+    "price": "7232.21",
+    "pricePerCoin": 1750,
+    "24hrChange": "-1.4",
+    "coinLogo": "https://d30y9cdsu7xlg0.cloudfront.net/png/1281283-200.png"
+  },
+  "ETH": {
+    "totalPrice": 1680,
+    "coinCount": 2.8,
+    "coinName": "ETH",
+    "price": "532.115",
+    "pricePerCoin": 600,
+    "24hrChange": "-8.74",
+    "coinLogo": "https://d30y9cdsu7xlg0.cloudfront.net/png/1281283-200.png"
+  }
+}
